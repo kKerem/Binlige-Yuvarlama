@@ -12,14 +12,14 @@ $sayikontrol = str_replace(',', '', $sayi);
   }
 ```
 
-### Eğer sayı 1000 veya üzerinde ise
+#### Eğer sayı 1000 veya üzerinde ise
 Ekran Çıktısı
 
 ```
 10.3K
 ```
 
-### Sayı 1000'in altında ise
+#### Sayı 1000'in altında ise
 Ekran Çıktısı
 
 ```
