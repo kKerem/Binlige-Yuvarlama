@@ -1,3 +1,6 @@
+# Sayıyı Binliğe Yuvarlama
+
+```
 $sayi        = $getir['sayi']; // $sayi = 10,347
 $sayikontrol = str_replace(',', '', $sayi);
 
@@ -9,3 +12,4 @@ $sayikontrol = str_replace(',', '', $sayi);
   else {
       echo $sayi; // NORMAL ÇIKTI
   }
+```
